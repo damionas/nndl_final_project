@@ -7,3 +7,9 @@ The final project paper can be found in the file called "Seabrum, Kinder - (NNDL
 
 # Files
 As of May 10, 2022, the Google Colab notebook that Scott and I worked on is available in this repository.  Eventually, I plan to update and convert the ipynb file to a Python file.  Additionally, I plan to clean the ipynb file to showcase just the final model that we report on.
+
+# Future Plans
+I plan to explore this dataset a bit further this summer (Summer 2022) using Transformers to see if the accuracy of the model can supersede that current best. 
+
+# Transparency
+To the extent to which I can do so, I will be as transparent with my code and writing as possible.  This includes storing major versions of code and previous write-ups/reports into a folder called /old.
