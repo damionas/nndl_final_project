@@ -5,3 +5,5 @@ The class (which I took in Spring 2022) went over many topics, including CNNs, R
 
 The final project paper can be found in the file called "Seabrum, Kinder - (NNDL Final Project) Neural Approaches for Predicting the Sentiment of Messages in a Twitch.tv Dataset.pdf"
 
+# Files
+As of May 10, 2022, the Google Colab notebook that Scott and I worked on is available in this repository.  Eventually, I plan to update and convert the ipynb file to a Python file.  Additionally, I plan to clean the ipynb file to showcase just the final model that we report on.
